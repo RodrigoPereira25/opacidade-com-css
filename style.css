@@ -56,12 +56,17 @@ aside {
     text-align: justify;
 }
 
+footer {
+    display: flex;
+    justify-content: center;
+}
+
 /*Configurações do rodapé*/
 .ajuste-footer {
     position: absolute;
     bottom: 0;
     padding: 1%;
-    width: 98%;
+    width: 96%;
     text-align: center;
     font-size: large;
     font-weight: 900;
